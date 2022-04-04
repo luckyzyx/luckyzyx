@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-<img width="50%" align="right" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=luckyzyx&langs_count=5&bg_color=30,e96443,904e95&title_color=fff&text_color=ddd&locale=cn" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=luckyzyx&show_icons=true&theme=default&locale=cn" />
 
 ### 会一点
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)

@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=luckyzyx&show_icons=true&theme=default&locale=cn" />
 
 ### 会一点
+
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
@@ -34,15 +35,16 @@ Here are some ideas to get you started:
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=goland&logoColor=white)](#)
 [![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vuedotjs&logoColor=white)](#)
 [![Word](https://img.shields.io/badge/-Word-2B579A?style=flat&logo=microsoft%20word&logoColor=white)](#)
 [![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat&logo=microsoft%20powerpoint&logoColor=white)](#)
 [![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft%20excel&logoColor=white)](#)
 [![Photoshop](https://img.shields.io/badge/-Photoshop-00c8f9?style=flat&logo=adobe%20photoshop&logoColor=white)](#)
+
 ### 没学过
 
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=goland&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](#)
 [![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat&logo=mariadb&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](#)

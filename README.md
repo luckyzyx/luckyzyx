@@ -19,18 +19,17 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Luckyzyx 👋
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luckyzyx)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luckyzyx)  
 
 ---
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=luckyzyx&show_icons=true&theme=default&locale=cn" />
-
-### 会一点
-
+### 所学专业
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
 [![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](#)
+
+### 会一点
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](#)
@@ -42,7 +41,6 @@ Here are some ideas to get you started:
 [![Photoshop](https://img.shields.io/badge/-Photoshop-00c8f9?style=flat&logo=adobe%20photoshop&logoColor=white)](#)
 
 ### 没学过
-
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/-Go-000000?style=flat&logo=goland&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](#)

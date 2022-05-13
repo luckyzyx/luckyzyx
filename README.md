@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=luckyzyx&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide=contribs&locale=cn&include_all_commits=true" />
 
-### Hi, I'm Luckyzyx 👋
-目前只会Ctrl C/V ,一切都需要学习,頑張って!!!  
+### Hi, I'm luckyzyx 👋
+忆清鸣、luckyzyx
+要做的事还有很多,一切都需要学习,頑張って!!!  
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/luckyzyx)
 [![Telegram](https://img.shields.io/badge/luckyzyx-Telegram-blue.svg?logo=telegram)](https://t.me/luckyzyx)  

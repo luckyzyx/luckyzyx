@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 
 ### 个人项目
 [![luckyzyxtools](https://github-readme-stats.vercel.app/api/pin/?username=luckyzyx&repo=luckyzyxtools)](https://github.com/luckyzyx/luckyzyxtools)  
-[![FuckRedOne](https://github-readme-stats.vercel.app/api/pin/?username=luckyzyx&repo=FuckRedOne)](https://github.com/luckyzyx/KillRedOne)  
+[![KillRedOne](https://github-readme-stats.vercel.app/api/pin/?username=luckyzyx&repo=KillRedOne)](https://github.com/luckyzyx/KillRedOne)  
 

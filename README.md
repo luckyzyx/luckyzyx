@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 ---
 
 ### 个人项目
+[![ColorOSExt](https://github-readme-stats.vercel.app/api/pin/?username=luckyzyx&repo=ColorOSExt)](https://github.com/luckyzyx/ColorOSExt)  
 [![luckyzyxtools](https://github-readme-stats.vercel.app/api/pin/?username=luckyzyx&repo=luckyzyxtools)](https://github.com/luckyzyx/luckyzyxtools)  
 [![KillRedOne](https://github-readme-stats.vercel.app/api/pin/?username=luckyzyx&repo=KillRedOne)](https://github.com/luckyzyx/KillRedOne)  
 

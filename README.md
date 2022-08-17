@@ -46,5 +46,4 @@ Here are some ideas to get you started:
 
 ### 个人项目
 [![LuckyTool](https://github-readme-stats.vercel.app/api/pin/?username=luckyzyx&repo=LuckyTool)](https://github.com/luckyzyx/LuckyTool)  
-[![KillRedOne](https://github-readme-stats.vercel.app/api/pin/?username=luckyzyx&repo=KillRedOne)](https://github.com/luckyzyx/KillRedOne)  
 

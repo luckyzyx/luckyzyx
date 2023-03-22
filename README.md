@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 专业
+### 学过
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](#)
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![MySQL](https://img.shields.io/badge/-MySQL-777BB4?style=flat&logo=mysql&logoColor=white)](#)
 [![C语言](https://img.shields.io/badge/-C语言-777BB4?style=flat&logo=c&logoColor=white)](#)
 
-### 会一点
+### 会点
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)](#)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#)
